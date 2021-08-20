@@ -1,5 +1,3 @@
 # To-Do-List
 👋 Hi, I’m @ShaikAlthafBabar
-👀 I’m interested in Web Development
-🌱 I’m currently learning Data Science
-📫 How to reach me shaikbabarking786@gmail.com
+In this project, we create a to-do list which keeps track of jobs thar are to be done. This will help in improve developing more web pages.
